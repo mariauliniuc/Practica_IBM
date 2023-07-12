@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4eb4ddd9-020c-4532-a94e-6fc5a925dfcc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/readSpark/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/readSpark/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="4eb4ddd9-020c-4532-a94e-6fc5a925dfcc" name="Changes" comment="Am adaugat a doua tema acestui program." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +19,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="15734355-ddac-421c-9754-22ee80222c32" />
+        <option name="url" value="https://github.com/mariauliniuc/Practica_IBM.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectId" id="2SCU7CLN8ULTwEf5jclIRNJvnbP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -59,6 +68,15 @@
       <option name="presentableId" value="Default" />
       <updated>1688649888373</updated>
     </task>
+    <task id="LOCAL-00001" summary="Am adaugat a doua tema acestui program.">
+      <option name="closed" value="true" />
+      <created>1689184058223</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689184058223</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -72,7 +90,7 @@
             <State>
               <option name="CUSTOM_BOOLEAN_PROPERTIES">
                 <map>
-                  <entry key="Show.Git.Branches" value="true" />
+                  <entry key="Show.Git.Branches" value="false" />
                 </map>
               </option>
             </State>
@@ -80,5 +98,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Am adaugat a doua tema acestui program." />
+    <option name="LAST_COMMIT_MESSAGE" value="Am adaugat a doua tema acestui program." />
   </component>
 </project>
